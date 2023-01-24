@@ -1,40 +1,4 @@
-* {
-    padding: 0px;
-    margin: 0px;
-}
-
-.nevbar {
-    overflow: hidden;
-    height: 70px;
-    margin: auto;
-    padding: auto;
-}
-
-.link {
-    padding: 10px 5px;
-    float: right;
-    font-size: 15px;
-    margin: 15px;
-}
-
-a {
-    text-decoration: none;
-    padding-right: 40px;
-    color: gray;
-}
-
-a:hover {
-    color: rgb(81, 46, 29);
-}
-
-.container {
-    margin: 20px 200px;
-}
-
-#button1 {
-    padding: 8px 16px;
-    color: aliceblue;
-    background-color: rgb(127, 101, 101);
-    border: none;
-    border-radius: 5px;
-}
+    * {
+        margin: 0;
+        padding: 0;
+    }
